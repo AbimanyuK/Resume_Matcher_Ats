@@ -1,0 +1,8 @@
+__pycache__/
+temp/
+*.pdf
+*.docx
+*.txt
+*.DS_Store
+*.pyc
+.myenv
