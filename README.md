@@ -31,3 +31,13 @@ This app semantically matches resumes to job descriptions using local embeddings
     ```bash
     ollama run mistral:instruct
     ```
+## 🖼️ Demo Screenshots
+
+### 🔹 Resume & Job Upload
+![Upload Resume](assets/upload_resume.png)
+
+### 🔹 Top Matches with Similarity
+![Match Output](assets/job_match_output.png)
+
+### 🔹 ATS Review (LLM Output)
+![ATS Feedback](assets/ats_feedback.png)
