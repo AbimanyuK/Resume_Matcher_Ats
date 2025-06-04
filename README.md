@@ -32,12 +32,16 @@ This app semantically matches resumes to job descriptions using local embeddings
     ollama run mistral:instruct
     ```
 ## 🖼️ Demo Screenshots
+### 🔹 Landing Page
+![Landing Page](assets/Landing_page.png)
 
 ### 🔹 Resume & Job Upload
-![Upload Resume](assets/upload_resume.png)
+![Upload Resume](assets/upload_resume_and_jd.png)
 
 ### 🔹 Top Matches with Similarity
 ![Match Output](assets/job_match_output.png)
 
 ### 🔹 ATS Review (LLM Output)
-![ATS Feedback](assets/ats_feedback.png)
+![ATS Feedback1](assets/ats_feedback1.png)
+![ATS Feedback2](assets/ats_feedback2.png)
+![ATS Feedback3](assets/ats_feedback3.png)
